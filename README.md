@@ -63,7 +63,7 @@ cd DooM-CANNON
 chmod 777 *
 chmod +x *
 pip3 install -r requirements.txt
-````
+```
 
 ---
 
