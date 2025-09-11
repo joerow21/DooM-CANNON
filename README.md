@@ -31,6 +31,7 @@ The authors take no responsibility for misuse.
 
 ---
 <h1 align="center"> DEVELOPER INFO </h1>
+
 ## 👨‍💻 Developers
 
 * **BLACK ZERO**
