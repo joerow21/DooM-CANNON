@@ -46,7 +46,8 @@ The authors take no responsibility for misuse.
 ## INSPIRED By
 * **PARVIS HASAN**
 
-
+---
+<h1 align="center"> Installing info </h1>
 ## 🛠️ Installation
 ```bash
 pkg update && pkg upgrade
@@ -83,7 +84,7 @@ You will see a CLI menu with available modules.
 Select an option (e.g., `01/A` for ORBIT Attack) and follow the prompts.
 
 ---
-
+<h1 align="center"> PROJECT INFO </h1>
 ## 🌳 Project Structure (Detailed Tree)
 
 ```
