@@ -30,6 +30,22 @@ The authors take no responsibility for misuse.
 - Modular structure – easy to add new Go tools
 
 ---
+<h1 align="center"> DEVELOPER INFO </h1>
+## 👨‍💻 Developers
+
+* **BLACK ZERO**
+* **FULL MOON**
+* **MR. CODE ERROR**
+
+## 🧑‍💻 HELPED BY 
+* **TAUSIF ZAMAN**
+* **PAEVES JOY**
+* **Kazi Tanvir Mahmud Omi**
+* **SHAWON ISLAM SAMI**
+
+## INSPIRED By
+* **PARVIS HASAN**
+
 
 ## 🛠️ Installation
 ```bash
@@ -140,17 +156,3 @@ MIT License @ copyright 2025
 
 ---
 
-## 👨‍💻 Developers
-
-* **BLACK ZERO**
-* **FULL MOON**
-* **MR. CODE ERROR**
-
-## 🧑‍💻 HELPED BY 
-* **TAUSIF ZAMAN**
-* **BAE MAX**
-* **DAVID ✘ VOID**
-* **SHAWON ISLAM SAMI**
-
-## INSPIRED By
-* **PARVEZ HASAN**
