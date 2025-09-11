@@ -144,7 +144,7 @@ doom-cannon/
 ## Language 
 
 <p align="center">
-  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="120"/>
+  <img src="https://i.postimg.cc/FF6y71Ds/python.jpg" alt="Python Logo" width="120"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="Go Logo" width="140"/>
 </p>
