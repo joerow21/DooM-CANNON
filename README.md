@@ -136,7 +136,7 @@ doom-cannon/
 
 ## 📜 License
 
-MIT License (add your license details here).
+MIT License @ copyright 2025
 
 ---
 
