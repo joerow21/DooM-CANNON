@@ -1,0 +1,27 @@
+Host: example.org
+Origin: https://example.org
+Referer: https://duckduckgo.com/
+X-Forwarded-For: 103.77.200.44
+X-Forwarded-Host: example.org
+X-Forwarded-Proto: https
+X-Real-IP: 80.211.14.99
+Client-IP: 185.199.110.133
+Forwarded: for=45.9.20.17;proto=https;by=198.18.2.45
+CF-Connecting-IP: 95.216.200.12
+True-Client-IP: 172.67.202.188
+X-Originating-IP: 89.248.172.16
+X-Cluster-Client-IP: 139.59.91.12
+X-Requested-With: XMLHttpRequest
+X-Forwarded-Server: proxy-gateway
+X-Request-ID: 654321987
+Via: 1.1 edge-proxy
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-GB,en;q=0.8
+Accept-Encoding: gzip, deflate, br
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+TE: trailers
+Upgrade-Insecure-Requests: 1
+DNT: 1
