@@ -113,4 +113,44 @@ doom-cannon/
 ---
 ## DOOM CANNON UI 
 <p align="center">
-  <img src="https://i.postimg.cc/sg05WqgC/doom-ui.jpg" width="600"/>
+  <img src="https://i.postimg.cc/sg05WqgC/doom-ui.jpg" width="600"/></p>
+
+  ---
+## Prove
+<p align="center">
+  <img src="https://i.postimg.cc/RFB9ppbW/prove.jpg" width="600"/>
+</p>
+
+
+---
+
+## Language 
+
+<p align="center">
+  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="120"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="Go Logo" width="140"/>
+</p>
+
+
+
+## 📜 License
+
+MIT License (add your license details here).
+
+---
+
+## 👨‍💻 Developers
+
+* **BLACK ZERO**
+* **FULL MOON**
+* **MR. CODE ERROR**
+
+## 🧑‍💻 HELPED BY 
+* **TAUSIF ZAMAN**
+* **BAE MAX**
+* **DAVID ✘ VOID**
+* **SHAWON ISLAM SAMI**
+
+## INSPIRED By
+* **PARVEZ HASAN**
