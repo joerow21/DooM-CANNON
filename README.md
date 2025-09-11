@@ -5,7 +5,7 @@
 <h1 align="center"> DOOM CANNON DDoS Tool</h1>
 
 <p align="center">
-  🚀 Powered by <b> BANGLADESH CYBER SQUARE and TEAM SHADOW STRIKER </b><br>
+  🚀 Powered by <b> BANGLADESH CYBER SQUAD and TEAM SHADOW STRIKER </b><br>
   📆 Year: 2025
 </p>
 
