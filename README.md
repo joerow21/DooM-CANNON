@@ -48,6 +48,8 @@ The authors take no responsibility for misuse.
 
 ---
 <h1 align="center"> Installing info </h1>
+
+
 ## 🛠️ Installation
 ```bash
 pkg update && pkg upgrade
