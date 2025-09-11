@@ -87,10 +87,22 @@ Select an option (e.g., `01/A` for ORBIT Attack) and follow the prompts.
 
 ---
 <h1 align="center"> PROJECT INFO </h1>
+
+## TOOL USERNAME 
+```bash
+*as you wish* user name is not fix use random name.
+```
+## TOOL PASSWOED 
+```bash
+DOOM CANNON@TEAM BCS
+```
+---
+<h1 align="center"> PROJECT INFO </h1>
+
 ## 🌳 Project Structure (Detailed Tree)
 
 ```
-doom-cannon/
+DooM-CANNON/
 │
 ├── DooM_CANNON.py               # Main Python language  launcher (menu, UI, input handling)
 ├── DooM_CANNON.go  							#  Go language launcher (menu, UI, input handling)
