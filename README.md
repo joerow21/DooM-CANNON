@@ -135,7 +135,7 @@ doom-cannon/
   ---
 ## Prove
 <p align="center">
-  <img src="https://i.postimg.cc/RFB9ppbW/prove.jpg" width="600"/>
+  <img src="https://i.postimg.cc/RFB9ppbW/prove.jpg" width="800"/>
 </p>
 
 
