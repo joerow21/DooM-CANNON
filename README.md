@@ -42,7 +42,7 @@ git clone https://github.com/TEAMBCS/DooM-CANNON.git
 cd DooM-CANNON
 chmod 777 *
 chmod +x *
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ````
 
 ---
@@ -56,7 +56,7 @@ python3 DooM_CANNON.py
 ```bash
 go run DooM_CANNON.go
 ```
-    *SHELL language launcher
+   *SHELL language launcher*
 ```bash
 bash DooM_CANNON.sh
 ```    
