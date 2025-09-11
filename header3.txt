@@ -1,0 +1,18 @@
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6) AppleWebKit/605.1.15 Version/17.0 Safari/605.1.15
+Accept: */*
+Accept-Language: en-GB,en;q=0.9
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: https://search.brave.com/
+Origin: https://target.com
+X-Forwarded-For: 210.88.44.12
+X-Real-IP: 185.200.12.144
+X-Client-IP: 200.100.50.25
+X-Remote-IP: 203.12.55.100
+X-Cluster-Client-IP: 111.22.33.44
+X-Originating-IP: 199.45.66.77
+X-Request-ID: abcdef123456
+Forwarded: for=172.16.1.2;proto=https;by=192.0.2.1
+True-Client-IP: 185.45.22.99
+CDN-Loop: cloudflare
+Fastly-Client-IP: 104.77.22.66
