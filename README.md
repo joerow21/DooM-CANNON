@@ -48,6 +48,20 @@ The authors take no responsibility for misuse.
 * **PARVIS HASAN**
 
 ---
+<h1 align="center"> Project Languages </h1>
+
+## Language 
+
+<p align="center">
+  <img src="https://i.postimg.cc/FF6y71Ds/python.jpg" alt="Python Logo" width="120"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="Go Logo" width="140"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://i.postimg.cc/9XwpPG4q/shell.png" alt="Go Logo" width="140"/>
+</p>
+
+---
+
 <h1 align="center"> Installing info </h1>
 
 
@@ -195,16 +209,6 @@ DooM-CANNON/
 
 
 ---
-
-## Language 
-
-<p align="center">
-  <img src="https://i.postimg.cc/FF6y71Ds/python.jpg" alt="Python Logo" width="120"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="Go Logo" width="140"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://i.postimg.cc/9XwpPG4q/shell.png" alt="Go Logo" width="140"/>
-</p>
 
 
 
