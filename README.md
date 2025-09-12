@@ -73,15 +73,15 @@ pip3 install -r requirements.txt
 ## ▶️ Usage
    *PYTHON language  launcher*
 ```bash
-python3 DooM_CANNON.py
+python3 doom_cannon.py
 ```
    *GO language launcher*
 ```bash
-go run DooM_CANNON.go
+go run doom_cannon.go
 ```
    *SHELL language launcher*
 ```bash
-bash DooM_CANNON.sh
+bash doom_cannon.sh
 ```    
 You will see a CLI menu with available modules.
 Select an option (e.g., `01/A` for ORBIT Attack) and follow the prompts.
@@ -145,9 +145,9 @@ DNT: 1
 ```
 DooM-CANNON/
 │
-├── DooM_CANNON.py               # Main Python language  launcher (menu, UI, input handling)
-├── DooM_CANNON.go  							#  Go language launcher (menu, UI, input handling)
-├── DooM_CANNON.sh 							#  Shell language launcher (menu, UI, input handling)
+├── doom_cannon.py               # Main Python language  launcher (menu, UI, input handling)
+├── doom_cannon.go  							#  Go language launcher (menu, UI, input handling)
+├── doom_cannon.sh 							#  Shell language launcher (menu, UI, input handling)
 │
 ├── orbit.go                 # Orbit Attack (TLS-based)
 │   ├─ Inputs: host, port, method [GET/POST], threads, duration, debug, proxy, header
