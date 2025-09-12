@@ -42,7 +42,7 @@ The authors take no responsibility for misuse.
 * **TAUSIF ZAMAN**
 * **PAEVES JOY**
 * **Kazi Tanvir Mahmud Omi**
-* **SHAWON ISLAM SAMI**
+* **SHAWON ISLAM SAIM**
 
 ## INSPIRED By
 * **PARVIS HASAN**
