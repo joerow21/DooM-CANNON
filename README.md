@@ -101,7 +101,7 @@ You will see a CLI menu with available modules.
 Select an option (e.g., `01/A` for ORBIT Attack) and follow the prompts.
 
 ---
-<h1 align="center"> PROJECT INFO </h1>
+<h1 align="center"> Tool Login Info </h1>
 
 ## TOOL USERNAME 
 ```bash
