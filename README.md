@@ -69,7 +69,8 @@ The authors take no responsibility for misuse.
 ```bash
 pkg update && pkg upgrade
 pkg install coreutils -y
-pkg install grep -y 
+pkg install grep -y
+pkg install libcaca -y
 pkg install python -y
 pkg install python3 -y
 pkg install golang -y
