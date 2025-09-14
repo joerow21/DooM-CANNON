@@ -1,0 +1,42 @@
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.9,bn-BD;q=0.7
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Host: login.target.com
+Referer: https://duckduckgo.com/
+Origin: https://login.target.com
+Upgrade-Insecure-Requests: 1
+DNT: 1
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: document
+X-Requested-With: XMLHttpRequest
+If-Modified-Since: Tue, 09 Sep 2025 12:34:56 GMT
+If-None-Match: "5f7-4a2a"
+Pragma: no-cache
+Cache-Control: no-cache, no-store, must-revalidate
+
+X-Forwarded-For: 77.45.233.101, 198.51.100.23
+X-Forwarded-Host: login.target.com
+X-Forwarded-Proto: https
+X-Forwarded-Server: edge-uk-12
+X-Real-IP: 192.168.99.55
+X-Originating-IP: 66.150.22.19
+X-Remote-IP: 185.12.44.90
+X-Client-IP: 203.99.77.12
+X-Cluster-Client-IP: 103.44.55.21
+X-Original-Forwarded-For: 45.77.88.99
+X-ProxyUser-Ip: 5.79.72.45
+X-Proxy-ID: proxy-eu-07
+X-Request-ID: b3f1c9d0-9a4e-11ee-b1a2-0242ac12000d
+X-Forwarded-Port: 443
+Forwarded: for=203.0.113.42;proto=https;by=198.51.100.10
+True-Client-IP: 149.100.20.200
+CF-Connecting-IP: 102.88.45.65
+CF-IPCountry: BD
+Fastly-Client-IP: 45.155.22.31
+Via: 1.1 varnish, 1.1 proxy77 (squid/3.5.23)
+TLS-Session-ID: 0x3a7f6b2c3d4e11
+X-Original-URL: /auth/login
+X-Forwarded-For-Proto: https
