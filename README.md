@@ -65,7 +65,7 @@ The authors take no responsibility for misuse.
 <h1 align="center"> Installing info </h1>
 
 
-## 🛠️ Installation
+## 🛠️ Installation for Termux
 ```bash
 pkg update && pkg upgrade
 pkg install coreutils -y
@@ -81,7 +81,7 @@ chmod 777 *
 chmod +x *
 pip3 install -r requirements.txt
 ```
-## 🔌 Installation Kali Linux 
+## 🔌 Installation for Kali Linux 
 ```bash
 sudo apt update && sudo apt upgrade -y
 sudo apt install -y coreutils grep libcaca python3 python3-pip python3-dev python3-setuptools build-essential golang git
